@@ -51,9 +51,26 @@
 
 ## 表格
 
-| columns1      | columns2     | columns3     |
-| 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
+
+## 代码框
+
+`  这是代码 
+   print "hello word"
+`
+
+![测试结果](http://ww3.sinaimg.cn/large/6aee7dbbgw1effg1lsa97j20lt0a8dgs.jpg)
+
+## 分割线
+
+***
+这是分割线
+***
 
 
 
