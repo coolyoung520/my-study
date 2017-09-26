@@ -60,6 +60,10 @@
 
 ## 代码框
 
+实现方式有两种：
+第一种：简单文字出现一个代码框。使用`<blockquote>`。（`不是单引号而是左上角的ESC下面~中的`）
+第二种：大片文字需要实现代码框。使用Tab和四个空格。
+
 `  这是代码 
    print "hello word"
 `
@@ -80,7 +84,7 @@
 
 
 
-
+# [学习练习](https://daringfireball.net/projects/markdown/dingus) 
 
 
 
