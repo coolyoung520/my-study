@@ -64,6 +64,12 @@
    print "hello word"
 `
 
+     
+     print "hello word"
+     for i in range(5)
+     
+<` print '666" `>
+
 ![测试结果](http://ww3.sinaimg.cn/large/6aee7dbbgw1effg1lsa97j20lt0a8dgs.jpg)
 
 ## 分割线
@@ -71,6 +77,8 @@
 ***
 这是分割线
 ***
+
+
 
 
 
